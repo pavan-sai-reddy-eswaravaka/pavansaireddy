@@ -59,7 +59,8 @@ I am interested in Data Analytics, Machine Learning, Business Intel ligence, and
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR-LINKEDIN-URL)
+www.linkedin.com/in/
+pavan-sai-reddy-eswaravaka-256295213
 
 ---
 
