@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pavan Sai Reddy</h1>
-<h3 align="center">MSc Data Science Student | Aspiring Data Analyst | Python, SQL, Machine Learning & Power BI</h3>
+<h3 align="center">MSc Data Science Student | junior Data Analyst | Python, SQL, Machine Learning & Power BI</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
 I am currently pursuing MSc Data Science at Kingston University London.  
-I am interested in Data Analytics, Machine Learning, Business Intelligence, and real-world data projects.
+I am interested in Data Analytics, Machine Learning, Business Intel ligence, and real-world data projects.
 
 - 🔭 Currently working on Data Science and Analytics projects
 - 🌱 Learning Python, SQL, Power BI, Tableau and Machine Learning
